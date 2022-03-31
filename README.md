@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0lgaP
 - 👀 I’m interested in fullstack and front end
-- 🌱 I’m currently learning Ruby! :small_red_triangle_down:
+- 🌱 I’m currently learning React! :hammer:
 - 💞️ I’m looking to collaborate on creative and opensource projects
 - 📫 Email me to connect
 
