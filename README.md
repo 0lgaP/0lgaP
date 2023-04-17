@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0lgaP
 - 👀 I’m interested in fullstack and front end
-- 🌱 I’m currently learning React-Testing-Library! :twisted_rightwards_arrows:
+- 🌱 I’m currently learning Firebase! 🔥:
 - 💞️ I’m looking to collaborate on creative and opensource projects
 - 📫 Email me to connect
 
